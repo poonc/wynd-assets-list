@@ -1,0 +1,25 @@
+{
+  "name": "@wynddao/asset-list",
+  "description": "Wyndao assets list",
+  "version": "0.0.1",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "rm -rf build && tsc",
+    "prepublish": "npm run build",
+    "publish:dev": "npm publish --dry-run",
+    "publish:prod": "npm publish"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://www.wyndao.com",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "files": [
+    "build",
+    "images"
+  ]
+}

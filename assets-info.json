@@ -11,8 +11,8 @@
       "channel": "channel-207",
       "juno_channel": "channel-1",
       "juno_denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-      "logoURI": "",
-      "tags": ["ibc"]
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/images/ATOM.png",
+      "tags": "ibc"
     },
     {
       "id": "osmosis",
@@ -25,8 +25,8 @@
       "channel": "channel-42",
       "juno_channel": "channel-0",
       "juno_denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
-      "logoURI": "",
-      "tags": ["ibc"]
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/images/OSMO.png",
+      "tags": "ibc"
     },
     {
       "id": "usd-coin",
@@ -39,9 +39,9 @@
       "channel": "channel-4",
       "juno_channel": "channel-71",
       "juno_denom": "ibc/EAC38D55372F38F1AFD68DF7FE9EF762DCF69F26520643CF3F9D292A738D8034",
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/images/USDC.png",
       "external_deposit_uri": "https://satellite.money/?source=ethereum&destination=juno&token=usdc",
-      "tags": ["ibc"]
+      "tags": "ibc"
     },
     {
       "id": "juno-network",
@@ -51,9 +51,8 @@
       "rpc": "",
       "denom": "ujuno",
       "decimals": 6,
-      "token_address": "",
-      "logoURI": "",
-      "tags": ["native"]
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/images/JUNO.png",
+      "tags": "native"
     },
     {
       "id": "",
@@ -64,23 +63,11 @@
       "denom": "uwynd",
       "decimals": 6,
       "token_address": "",
-      "logoURI": "",
-      "tags": ["cw20"]
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/images/WYND.svg",
+      "tags": "cw20"
     },
     {
       "id": "",
-      "symbol": "WYND",
-      "name": "Wynd",
-      "chain_id": "juno-1",
-      "rpc": "",
-      "denom": "uwynd",
-      "decimals": 6,
-      "token_address": "",
-      "logoURI": "",
-      "tags": ["cw20"]
-    },
-    {
-      "id": "neta",
       "symbol": "NETA",
       "name": "NETA",
       "chain_id": "juno-1",
@@ -88,8 +75,8 @@
       "denom": "neta",
       "decimals": 6,
       "token_address": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr",
-      "logoURI": "",
-      "tags": ["cw20"]
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/images/NETA.png",
+      "tags": "cw20"
     },
     {
       "id": "",
@@ -100,8 +87,8 @@
       "denom": "phmn",
       "decimals": 6,
       "token_address": "juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l",
-      "logoURI": "",
-      "tags": ["cw20"]
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/images/PHMN.png",
+      "tags": "cw20"
     },
     {
       "id": "",
@@ -112,8 +99,8 @@
       "denom": "sejuno",
       "decimals": 6,
       "token_address": "juno1dd0k0um5rqncfueza62w9sentdfh3ec4nw4aq4lk5hkjl63vljqscth9gv",
-      "logoURI": "",
-      "tags": ["cw20"]
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/images/seJUNO.png",
+      "tags": "cw20"
     },
     {
       "id": "",
@@ -124,8 +111,8 @@
       "denom": "glto",
       "decimals": 6,
       "token_address": "juno1j0a9ymgngasfn3l5me8qpd53l5zlm9wurfdk7r65s5mg6tkxal3qpgf5se",
-      "logoURI": "",
-      "tags": ["cw20"]
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/images/GLTO.png",
+      "tags": "cw20"
     },
     {
       "id": "",
@@ -136,8 +123,8 @@
       "denom": "muse",
       "decimals": 6,
       "token_address": "juno1p8x807f6h222ur0vssqy3qk6mcpa40gw2pchquz5atl935t7kvyq894ne3",
-      "logoURI": "",
-      "tags": ["cw20"]
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/images/MUSE.png",
+      "tags": "cw20"
     },
     {
       "id": "",
@@ -148,8 +135,8 @@
       "denom": "rac",
       "decimals": 6,
       "token_address": "juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa",
-      "logoURI": "",
-      "tags": ["cw20"]
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/images/RAC.png",
+      "tags": "cw20"
     },
     {
       "id": "",
@@ -160,8 +147,8 @@
       "denom": "sgnl",
       "decimals": 6,
       "token_address": "juno14lycavan8gvpjn97aapzvwmsj8kyrvf644p05r0hu79namyj3ens87650k",
-      "logoURI": "",
-      "tags": ["cw20"]
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/images/SGNL.png",
+      "tags": "cw20"
     }
   ]
 }
