@@ -1,7 +1,7 @@
 {
   "name": "@wynddao/asset-list",
   "description": "Wyndao assets list",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "build/index.js",
   "scripts": {
     "build": "rm -rf build && tsc",
@@ -10,7 +10,7 @@
     "publish:prod": "npm publish"
   },
   "license": "Apache-2.0",
-  "homepage": "https://www.wyndao.com",
+  "homepage": "https://www.wynddao.com",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
@@ -19,7 +19,6 @@
     "typescript": "^4.9.4"
   },
   "files": [
-    "build",
-    "images"
+    "build"
   ]
 }
