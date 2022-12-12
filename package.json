@@ -1,11 +1,11 @@
 {
   "name": "@wynddao/asset-list",
   "description": "Wyndao assets list",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "main": "build/index.js",
   "scripts": {
     "build": "rm -rf build && tsc",
-    "prepublish": "npm run build",
+    "prepublishOnly": "npm run build",
     "publish:dev": "npm publish --dry-run",
     "publish:prod": "npm publish"
   },
