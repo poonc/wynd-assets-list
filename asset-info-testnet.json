@@ -1,53 +1,52 @@
 {
-    "tokens": [
-      {
-        "id": "osmosistestnet",
-        "name": "OSMO",
-        "symbol": "OSMO",
-        "chain_id": "osmo-test-4",
-        "rpc": "https://rpc-test.osmosis.zone:443",
-        "denom": "uosmo",
-        "decimals": 6,
-        "channel": "channel-1114",
-        "juno_channel": "channel-33",
-        "juno_denom": "ibc/TODO",
-        "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/OSMO.png",
-        "tags": "ibc"
-      },
-      {
-        "id": "juno",
-        "symbol": "JUNOX",
-        "name": "Juno",
-        "chain_id": "uni-5",
-        "rpc": "",
-        "denom": "ujunox",
-        "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/JUNO.png",
-        "tags": "native"
-      },
-      {
-        "id": "usdc",
-        "symbol": "USDCX",
-        "name": "usdc",
-        "chain_id": "uni-5",
-        "rpc": "",
-        "denom": "ujunox",
-        "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/JUNO.png",
-        "tags": "native"
-      },
-      {
-        "id": "",
-        "symbol": "WYNDEX",
-        "name": "Wyndex",
-        "chain_id": "uni-5",
-        "rpc": "",
-        "denom": "wyndex",
-        "decimals": 6,
-        "token_address": "juno1xpnyc3w4zhnr3pgjh8xt8xy3r2jv95gmy044r6ysffwqkqpeyz4qewg57y",
-        "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/WYND.svg",
-        "tags": "cw20"
-      }
-    ]
-  }
-  
+  "tokens": [
+    {
+      "id": "osmosistestnet",
+      "name": "OSMO",
+      "symbol": "OSMO",
+      "chain_id": "osmo-test-4",
+      "rpc": "https://rpc-test.osmosis.zone:443",
+      "denom": "uosmo",
+      "decimals": 6,
+      "channel": "channel-1114",
+      "juno_channel": "channel-33",
+      "juno_denom": "ibc/TODO",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/OSMO.png",
+      "tags": "ibc"
+    },
+    {
+      "id": "juno",
+      "symbol": "JUNOX",
+      "name": "Juno",
+      "chain_id": "uni-5",
+      "rpc": "",
+      "denom": "ujunox",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/JUNO.png",
+      "tags": "native"
+    },
+    {
+      "id": "usdc",
+      "symbol": "USDCX",
+      "name": "usdc",
+      "chain_id": "uni-5",
+      "rpc": "",
+      "denom": "ujunox",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/JUNO.png",
+      "tags": "native"
+    },
+    {
+      "id": "",
+      "symbol": "WYNDEX",
+      "name": "Wyndex",
+      "chain_id": "uni-5",
+      "rpc": "",
+      "denom": "wyndex",
+      "decimals": 6,
+      "token_address": "juno1xpnyc3w4zhnr3pgjh8xt8xy3r2jv95gmy044r6ysffwqkqpeyz4qewg57y",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/WYND.svg",
+      "tags": "cw20"
+    }
+  ]
+}
