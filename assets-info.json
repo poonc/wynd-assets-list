@@ -60,7 +60,7 @@
       "name": "Wynd",
       "chain_id": "juno-1",
       "rpc": "",
-      "denom": "uwynd",
+      "denom": "wyndex",
       "decimals": 6,
       "token_address": "",
       "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/WYND.svg",
