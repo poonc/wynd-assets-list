@@ -1,4 +1,6 @@
-export interface Asset {
+export type Asset = NativeAsset | IBCAsset | CW20Asset;
+
+export interface NativeAsset {
   id: string;
   symbol: string;
   name: string;
@@ -10,13 +12,13 @@ export interface Asset {
   tags: string;
 }
 
-export interface IBCAsset extends Asset {
+export interface IBCAsset extends NativeAsset {
   channel: string;
   juno_channel: string;
   juno_denom: string;
   external_deposit_uri: string;
 }
 
-export interface CW20Asset extends Asset {
+export interface CW20Asset extends NativeAsset {
   token_address: string;
 }
