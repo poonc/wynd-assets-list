@@ -31,9 +31,9 @@
       "name": "usdc",
       "chain_id": "uni-5",
       "rpc": "",
-      "denom": "ujunox",
+      "denom": "uusdcx",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/JUNO.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/USDC.png",
       "tags": "native"
     },
     {
