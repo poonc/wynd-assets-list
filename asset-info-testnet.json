@@ -1,6 +1,17 @@
 {
   "tokens": [
     {
+      "id": "ki",
+      "symbol": "TKI",
+      "name": "TKI",
+      "chain_id": "kichain-t-4",
+      "rpc": "",
+      "denom": "utki",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/TKI.svg",
+      "tags": "native"
+    },
+    {
       "id": "osmosistestnet",
       "name": "OSMO",
       "symbol": "OSMO",
@@ -29,7 +40,7 @@
       "id": "usdc",
       "symbol": "USDCX",
       "name": "usdc",
-      "chain_id": "uni-5",
+      "chain_id": "axelar-testnet-lisbon-3",
       "rpc": "",
       "denom": "uusdcx",
       "decimals": 6,
