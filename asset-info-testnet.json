@@ -1,6 +1,17 @@
 {
   "tokens": [
     {
+      "id": "ki",
+      "symbol": "TKI",
+      "name": "TKI",
+      "chain_id": "kichain-t-4",
+      "rpc": "",
+      "denom": "utki",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/TKI.svg",
+      "tags": "native"
+    },
+    {
       "id": "osmosistestnet",
       "name": "OSMO",
       "symbol": "OSMO",
