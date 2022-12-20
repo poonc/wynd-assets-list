@@ -29,7 +29,7 @@
       "id": "usdc",
       "symbol": "USDCX",
       "name": "usdc",
-      "chain_id": "uni-5",
+      "chain_id": "axelar-testnet-lisbon-3",
       "rpc": "",
       "denom": "uusdcx",
       "decimals": 6,
