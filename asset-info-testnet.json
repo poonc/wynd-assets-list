@@ -5,11 +5,14 @@
       "symbol": "TKI",
       "name": "TKI",
       "chain_id": "kichain-t-4",
-      "rpc": "",
+      "rpc": "https://testnet-rpc.kichain.chaintools.tech",
       "denom": "utki",
       "decimals": 6,
+      "channel": "channel-369",
+      "juno_channel": "channel-461",
+      "juno_denom": "ibc/0C1FFD27A01B116F10F0BC624A6A24190BC9C57B27837E23E3B43C34A193967C",
       "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/TKI.svg",
-      "tags": "native"
+      "tags": "ibc"
     },
     {
       "id": "osmosistestnet",
