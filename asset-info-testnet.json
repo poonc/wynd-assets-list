@@ -15,20 +15,6 @@
       "tags": "ibc"
     },
     {
-      "id": "osmosistestnet",
-      "name": "OSMO",
-      "symbol": "OSMO",
-      "chain_id": "osmo-test-4",
-      "rpc": "https://rpc-test.osmosis.zone:443",
-      "denom": "uosmo",
-      "decimals": 6,
-      "channel": "channel-1114",
-      "juno_channel": "channel-33",
-      "juno_denom": "ibc/TODO",
-      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/OSMO.png",
-      "tags": "ibc"
-    },
-    {
       "id": "juno",
       "symbol": "JUNOX",
       "name": "Juno",
