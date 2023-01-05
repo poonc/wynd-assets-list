@@ -38,25 +38,13 @@
     },
     {
       "id": "",
-      "symbol": "WYNDEX",
-      "name": "Wyndex",
+      "symbol": "WYND",
+      "name": "WYND TEST",
       "chain_id": "uni-5",
       "rpc": "",
-      "denom": "wyndex",
+      "denom": "twynd",
       "decimals": 6,
-      "token_address": "juno1xpnyc3w4zhnr3pgjh8xt8xy3r2jv95gmy044r6ysffwqkqpeyz4qewg57y",
-      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/WYND.svg",
-      "tags": "cw20"
-    },
-    {
-      "id": "",
-      "symbol": "TTOKEN",
-      "name": "Test Token",
-      "chain_id": "uni-5",
-      "rpc": "",
-      "denom": "ttoken",
-      "decimals": 6,
-      "token_address": "juno1q56cfjewxp2f0pqtrpyx78j55zfxnz4z27y6fayew0wqw9m2t87sjfgf54",
+      "token_address": "juno1fzqhwqczcz7z6s7ca6hgk9rpqv8qp6kq3j7uejf52efc03lgxn7sa8gslp",
       "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/WYND.svg",
       "tags": "cw20"
     }
