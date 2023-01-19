@@ -158,7 +158,7 @@
       "rpc": "",
       "denom": "uaqua",
       "decimals": 6,
-      "token_address": "juno1w7kspnu3j4hmzvsltsk00xujfa84sf502vs2zjcawl03vgn7vj3sww9mh7",
+      "token_address": "juno1hnftys64ectjfynm6qjk9my8jd3f6l9dq9utcd3dy8ehwrsx9q4q7n9uxt",
       "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/AQUA.png",
       "tags": "cw20"
     },
