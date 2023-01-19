@@ -168,7 +168,7 @@
       "name": "bJuno",
       "chain_id": "juno-1",
       "rpc": "",
-      "denom": "usgnl",
+      "denom": "ubjuno",
       "decimals": 6,
       "token_address": "juno1wwnhkagvcd3tjz6f8vsdsw5plqnw8qy2aj3rrhqr2axvktzv9q2qz8jxn3",
       "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/seJUNO.png",
@@ -196,6 +196,18 @@
       "decimals": 3,
       "token_address": "juno1vn38rzq0wc7zczp4dhy0h5y5kxh2jjzeahwe30c9cc6dw3lkyk5qn5rmfa",
       "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/CANLAB.png",
+      "tags": "cw20"
+    },
+    {
+      "id": "",
+      "symbol": "sEASY",
+      "name": "StakeEasy",
+      "chain_id": "juno-1",
+      "rpc": "",
+      "denom": "useasy",
+      "decimals": 3,
+      "token_address": "juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/SEASY.png",
       "tags": "cw20"
     }
   ]
