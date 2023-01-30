@@ -128,42 +128,6 @@
     },
     {
       "id": "",
-      "symbol": "RAC",
-      "name": "RAC",
-      "chain_id": "juno-1",
-      "rpc": "",
-      "denom": "urac",
-      "decimals": 6,
-      "token_address": "juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa",
-      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/RAC.png",
-      "tags": "cw20"
-    },
-    {
-      "id": "",
-      "symbol": "SGNL",
-      "name": "Signal",
-      "chain_id": "juno-1",
-      "rpc": "",
-      "denom": "usgnl",
-      "decimals": 6,
-      "token_address": "juno14lycavan8gvpjn97aapzvwmsj8kyrvf644p05r0hu79namyj3ens87650k",
-      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/SGNL.png",
-      "tags": "cw20"
-    },
-    {
-      "id": "",
-      "symbol": "AQUA",
-      "name": "Aqua",
-      "chain_id": "juno-1",
-      "rpc": "",
-      "denom": "uaqua",
-      "decimals": 6,
-      "token_address": "juno1hnftys64ectjfynm6qjk9my8jd3f6l9dq9utcd3dy8ehwrsx9q4q7n9uxt",
-      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/AQUA.png",
-      "tags": "cw20"
-    },
-    {
-      "id": "",
       "symbol": "BJUNO",
       "name": "bJuno",
       "chain_id": "juno-1",
@@ -205,9 +169,45 @@
       "chain_id": "juno-1",
       "rpc": "",
       "denom": "useasy",
-      "decimals": 3,
+      "decimals": 6,
       "token_address": "juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf",
       "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/SEASY.png",
+      "tags": "cw20"
+    },
+    {
+      "id": "",
+      "symbol": "AQUA",
+      "name": "Aqua",
+      "chain_id": "juno-1",
+      "rpc": "",
+      "denom": "uaqua",
+      "decimals": 6,
+      "token_address": "juno1hnftys64ectjfynm6qjk9my8jd3f6l9dq9utcd3dy8ehwrsx9q4q7n9uxt",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/AQUA.png",
+      "tags": "cw20"
+    },
+    {
+      "id": "",
+      "symbol": "RAC",
+      "name": "RAC",
+      "chain_id": "juno-1",
+      "rpc": "",
+      "denom": "urac",
+      "decimals": 6,
+      "token_address": "juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/RAC.png",
+      "tags": "cw20"
+    },
+    {
+      "id": "",
+      "symbol": "SGNL",
+      "name": "Signal",
+      "chain_id": "juno-1",
+      "rpc": "",
+      "denom": "usgnl",
+      "decimals": 6,
+      "token_address": "juno14lycavan8gvpjn97aapzvwmsj8kyrvf644p05r0hu79namyj3ens87650k",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/SGNL.png",
       "tags": "cw20"
     }
   ]
