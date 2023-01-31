@@ -1,7 +1,7 @@
 {
   "name": "@wynddao/asset-list",
   "description": "Wyndao assets list",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "main": "build/index.js",
   "scripts": {
     "build": "rm -rf build && tsc",
