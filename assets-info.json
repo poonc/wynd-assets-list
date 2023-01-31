@@ -44,6 +44,20 @@
       "tags": "ibc"
     },
     {
+      "id": "stargaze",
+      "name": "STARS",
+      "symbol": "STARS",
+      "chain_id": "stargaze-1",
+      "rpc": "https://rpc.stargaze-apis.com:443",
+      "denom": "ustars",
+      "decimals": 6,
+      "channel": "channel-5",
+      "juno_channel": "channel-20",
+      "juno_denom": "ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/USDC.png",
+      "tags": "ibc"
+    },
+    {
       "id": "juno-network",
       "symbol": "JUNO",
       "name": "Juno",
