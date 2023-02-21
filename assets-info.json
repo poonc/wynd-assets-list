@@ -246,7 +246,7 @@
       "decimals": 6,
       "channel": "channel-3",
       "juno_channel": "channel-209",
-      "juno_denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+      "juno_denom": "ibc/281FEE887CDF71EB9C1FEFC554822DCB06BE4E8A8BFF944ED64E3D03437E9384",
       "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/MARS.png",
       "tags": "ibc"
     },
