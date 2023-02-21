@@ -223,6 +223,44 @@
       "token_address": "juno14lycavan8gvpjn97aapzvwmsj8kyrvf644p05r0hu79namyj3ens87650k",
       "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/SGNL.png",
       "tags": "cw20"
+    },
+    {
+      "id": "",
+      "symbol": "ampJuno",
+      "name": "ampJuno",
+      "chain_id": "juno-1",
+      "rpc": "",
+      "denom": "uampjuno",
+      "decimals": 6,
+      "token_address": "juno1a0khag6cfzu5lrwazmyndjgvlsuk7g4vn9jd8ceym8f4jf6v2l9q6d348a",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/ampJuno.svg",
+      "tags": "cw20"
+    },
+    {
+      "id": "mars",
+      "name": "Mars",
+      "symbol": "MARS",
+      "chain_id": "mars-1",
+      "rpc": "https://rpc.expedition-mars.com",
+      "denom": "umars",
+      "decimals": 6,
+      "channel": "channel-3",
+      "juno_channel": "channel-209",
+      "juno_denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/MARS.png",
+      "tags": "ibc"
+    },
+    {
+      "id": "",
+      "symbol": "CASA",
+      "name": "CASA",
+      "chain_id": "juno-1",
+      "rpc": "",
+      "denom": "ucasa",
+      "decimals": 6,
+      "token_address": "juno1ju8k8sqwsqu5k6umrypmtyqu2wqcpnrkf4w4mntvl0javt4nma7s8lzgss",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/CASA.png",
+      "tags": "cw20"
     }
   ]
 }
