@@ -261,6 +261,18 @@
       "token_address": "juno1ju8k8sqwsqu5k6umrypmtyqu2wqcpnrkf4w4mntvl0javt4nma7s8lzgss",
       "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/CASA.png",
       "tags": "cw20"
+    },
+    {
+      "id": "",
+      "symbol": "HOWL",
+      "name": "HOWL",
+      "chain_id": "juno-1",
+      "rpc": "",
+      "denom": "uhowl",
+      "decimals": 6,
+      "token_address": "juno1g0wuyu2f49ncf94r65278puxzclf5arse9f3kvffxyv4se4vgdmsk4dvqz",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/HOWL.png",
+      "tags": "cw20"
     }
   ]
 }
