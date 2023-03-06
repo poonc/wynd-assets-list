@@ -273,6 +273,18 @@
       "token_address": "juno1g0wuyu2f49ncf94r65278puxzclf5arse9f3kvffxyv4se4vgdmsk4dvqz",
       "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/HOWL.png",
       "tags": "cw20"
+    },
+    {
+      "id": "",
+      "symbol": "KLEO",
+      "name": "Kleomedes",
+      "chain_id": "juno-1",
+      "rpc": "",
+      "denom": "ukleo",
+      "decimals": 6,
+      "token_address": "juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/KLEO.png",
+      "tags": "cw20"
     }
   ]
 }
