@@ -282,7 +282,7 @@
       "rpc": "",
       "denom": "ukleo",
       "decimals": 6,
-      "token_address": "juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l",
+      "token_address": "juno10gthz5ufgrpuk5cscve2f0hjp56wgp90psqxcrqlg4m9mcu9dh8q4864xy",
       "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/KLEO.png",
       "tags": "cw20"
     }
