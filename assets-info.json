@@ -65,7 +65,7 @@
       "rpc": "",
       "denom": "ujuno",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/JUNO.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/JUNO.svg",
       "tags": "native"
     },
     {
@@ -149,7 +149,7 @@
       "denom": "ubjuno",
       "decimals": 6,
       "token_address": "juno1wwnhkagvcd3tjz6f8vsdsw5plqnw8qy2aj3rrhqr2axvktzv9q2qz8jxn3",
-      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/seJUNO.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/bJUNO.png",
       "tags": "cw20"
     },
     {
