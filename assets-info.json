@@ -251,6 +251,21 @@
       "tags": "ibc"
     },
     {
+      "id": "usd-coin",
+      "name": "wETH",
+      "symbol": "wETH",
+      "chain_id": "axelar-dojo-1",
+      "rpc": "https://rpc-axelar.keplr.app:443",
+      "denom": "uweth",
+      "decimals": 6,
+      "channel": "channel-4",
+      "juno_channel": "channel-71",
+      "juno_denom": "ibc/95A45A81521EAFDBEDAEEB6DA975C02E55B414C95AD3CE50709272366A90CA17",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/WETH.png",
+      "external_deposit_uri": "https://satellite.money/?source=ethereum&token=eth&destination=juno&asset_denom=eth&destination_address=",
+      "tags": "ibc"
+    },
+    {
       "id": "",
       "symbol": "CASA",
       "name": "CASA",
