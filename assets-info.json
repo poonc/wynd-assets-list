@@ -251,7 +251,7 @@
       "tags": "ibc"
     },
     {
-      "id": "usd-coin",
+      "id": "",
       "name": "wETH",
       "symbol": "wETH",
       "chain_id": "axelar-dojo-1",
