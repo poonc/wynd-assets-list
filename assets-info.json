@@ -82,6 +82,18 @@
     },
     {
       "id": "",
+      "symbol": "wyJUNO",
+      "name": "wyJUNO",
+      "chain_id": "juno-1",
+      "rpc": "",
+      "denom": "uwyjuno",
+      "decimals": 6,
+      "token_address": "juno1naunqzk6jseqeqhq43nm6kdneraws2rkmteprjzppw6j9xcrurxqx0ld9e",
+      "logoURI": "https://raw.githubusercontent.com/cosmorama/wynd-assets-list/main/images/wyJUNO.png",
+      "tags": "cw20"
+    },
+    {
+      "id": "",
       "symbol": "NETA",
       "name": "NETA",
       "chain_id": "juno-1",
